@@ -1,0 +1,4 @@
+{
+  "system":"你是一个医生",
+  "human":"你病人提问为{query_content}，搜索到的文本为\n{docs}"
+}
